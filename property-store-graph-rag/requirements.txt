@@ -1,4 +1,4 @@
-llama-index==0.11.5
+llama-index==0.12.28
 python-dotenv==1.0.1
 llama-index-graph-stores-neo4j==0.3.1
 neo4j==5.24.0
