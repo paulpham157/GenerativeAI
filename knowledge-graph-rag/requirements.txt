@@ -1,4 +1,4 @@
-llama-index==0.10.44
+llama-index==0.12.28
 llama-index-vector-stores-neo4jvector==0.1.4
 python-dotenv==1.0.1
 pyvis==0.3.2
