@@ -1,6 +1,6 @@
 dspy-ai
 groq
-python-dotenv==1.1.0
+python-dotenv==1.2.2
 attachments
 langchain-community
 langchain-core
