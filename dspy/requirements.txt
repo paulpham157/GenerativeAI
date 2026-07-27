@@ -1,11 +1,11 @@
 dspy-ai
 groq
-python-dotenv==1.1.0
+python-dotenv==1.2.2
 attachments
 langchain-community
 langchain-core
 chromadb
-transformers>=4.51.0
+transformers>=5.7.0
 sentence-transformers>=2.7.0
 pypdf
 langchain-huggingface
